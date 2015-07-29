@@ -21,7 +21,7 @@ defmodule HTTPotion.Mixfile do
   end
 
   defp deps do
-    [{:ibrowse, github: "cmullaparthi/ibrowse", tag: "v4.1.1"}]
+    [{:ibrowse, github: "cmullaparthi/ibrowse"}]
   end
 
   defp package do
